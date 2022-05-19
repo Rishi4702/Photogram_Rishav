@@ -9,6 +9,7 @@ public class Card {
         this.title = title;
         this.imgurl = imgurl;
     }
+
     public int getImgurl() {
         return imgurl;
     }
